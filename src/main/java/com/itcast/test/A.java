@@ -8,7 +8,7 @@ public class A {
         System.out.println("2222");
         System.out.println("999999");
         System.out.println("32323232***");
-        System.out.println("dddd");
+        System.out.println("dddd2222");
 
     }
 
